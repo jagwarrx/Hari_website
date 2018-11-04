@@ -8,10 +8,10 @@ var Messenger = function(el){
     m.current_length = 0;
     m.fadeBuffer = false;
     m.messages = [
-      'Im a full Stack Developer.',
-      'Hello World!',
+      'Computer Science Graduate.',
+      'Technologist',
       'My name is Hari Meyyappan.',
-      'Welcome to my website.',
+      'Entreprenuer.',
     ];
     
     setTimeout(m.animateIn, 100);
