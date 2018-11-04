@@ -8,7 +8,7 @@ var Messenger = function(el){
     m.current_length = 0;
     m.fadeBuffer = false;
     m.messages = [
-      'Computer Science Graduate.',
+      'Full Stack Developer.',
       'Technologist',
       'My name is Hari Meyyappan.',
       'Entreprenuer.',
